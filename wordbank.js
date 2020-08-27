@@ -3,7 +3,7 @@ export const wordbank = [
     type: 'department',
     nameEN: '',
     nameBM: 'Pejabat Gabenor',
-    acronymEN: 'GOV',
+    acronymEN: '',
     acronymBM: 'GOV',
   },
   {
@@ -15,9 +15,9 @@ export const wordbank = [
   },
   {
     type: 'department',
-    nameEN: 'CMC',
+    nameEN: '',
     nameBM: 'Jabatan Konsumer dan Amalan Pasaran',
-    acronymEN: '',
+    acronymEN: 'CMC',
     acronymBM: 'JKAP',
   },
   {

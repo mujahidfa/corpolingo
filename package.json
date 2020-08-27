@@ -1,7 +1,8 @@
 {
-  "name": "corpolingo",
+  "name": "CorpoLingo",
   "version": "1.0.0",
   "private": true,
+  "description": "Corporate™ lingo dictionary for the masses",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

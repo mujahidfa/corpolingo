@@ -31,5 +31,8 @@ module.exports = {
       'plugins/**/*.js',
       'nuxt.config.js',
     ],
+    options: {
+      whitelist: ['dark-mode'],
+    },
   },
 }
