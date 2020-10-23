@@ -7,7 +7,7 @@
         target="_blank"
         rel="noopener noreferrer"
         class="focus:outline-none hover:underline hover:text-indigo-500 focus:underline focus:text-indigo-500"
-        >Average Executive™.</a
+        >Average Executive™</a
       >
     </p>
   </footer>
