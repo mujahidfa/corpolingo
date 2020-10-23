@@ -5,7 +5,7 @@
     </h1>
     <nav class="flex justify-evenly">
       <nuxt-link to="/" class="dark:text-white">Home</nuxt-link>
-      <nuxt-link to="/about" class="dark:text-white">WTF is this?</nuxt-link>
+      <nuxt-link to="/about" class="dark:text-white">WTH is this?</nuxt-link>
     </nav>
   </header>
 </template>
