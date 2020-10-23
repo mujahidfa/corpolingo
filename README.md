@@ -1,4 +1,4 @@
-# corpolingo
+# CorpoLingo
 
 ## Build Setup
 
