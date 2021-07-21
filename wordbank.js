@@ -100,9 +100,9 @@ export const wordbank = [
   {
     type: 'department',
     nameEN: 'LINK and BNM Offices',
-    nameBM: 'LINK dan Pejabat BNM',
+    nameBM: 'Jabatan LINK dan Pejabat BNM',
     acronymEN: 'LINK',
-    acronymBM: '',
+    acronymBM: 'JLPB',
   },
   {
     type: 'department',
