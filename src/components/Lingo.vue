@@ -58,8 +58,12 @@ const route = useRoute();
 const router = useRouter();
 
 const searchKeyword = computed({
-  get(): string | undefined {
-    return route.query.query?.toString();
+  get(): string {
+    if (route.query["query"]) {
+      return route.query["query"].toString();
+    } else {
+      return "";
+    }
   },
   set(newSearchKeyword: string): void {
     if (newSearchKeyword === "") {
