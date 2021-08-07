@@ -46,7 +46,7 @@
               type="search"
               :placeholder="placeholderText"
               :value="modelValue"
-              @input="$emit('update:modelValue', $event.target.value)"
+              @input="updateValue"
               autocomplete="off"
               autocorrect="off"
               autofocus
@@ -73,4 +73,8 @@ const props = defineProps(["modelValue"]);
 const emit = defineEmits(["update:modelValue"]);
 
 const placeholderText = "Search a corporate acronym";
+
+const updateValue = (event: Event) => {
+  emit("update:modelValue", (event.target as HTMLInputElement).value);
+};
 </script>
