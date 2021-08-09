@@ -63,7 +63,7 @@ export interface Lingo {
 
 export const lingobank: Lingo[] = [
   {
-    type: "department",
+    type: "office",
     nameEN: "Governor's Office",
     nameBM: "Pejabat Gabenor",
     acronymEN: "",
