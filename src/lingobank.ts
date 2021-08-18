@@ -186,7 +186,7 @@ export const lingobank: Lingo[] = [
     type: "unit",
     nameEN: "Financial Sector Administration",
     nameBM: "Unit Pentadbiran Sektor Kewangan",
-    acronymEN: "",
+    acronymEN: "FSA",
     acronymBM: "UPSK",
     preferredLang: "BM",
   },
