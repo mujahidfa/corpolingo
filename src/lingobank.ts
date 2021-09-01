@@ -258,7 +258,7 @@ export const lingobank: Lingo[] = [
     type: "department",
     nameEN: "Payment Services Policy",
     nameBM: "Jabatan Dasar Perkhidmatan Pembayaran",
-    acronymEN: "",
+    acronymEN: "PPD",
     acronymBM: "",
     preferredLang: "EN",
   },
