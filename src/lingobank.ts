@@ -145,9 +145,9 @@ export const lingobank: Lingo[] = [
   {
     type: "department",
     nameEN: "Foreign Exchange Policy",
-    nameBM: "Jabatan Pentadbiran Pertukaran Asing",
+    nameBM: "Jabatan Dasar Pertukaran Asing",
     acronymEN: "",
-    acronymBM: "JPPA",
+    acronymBM: "JDPA",
     preferredLang: "BM",
   },
   {
