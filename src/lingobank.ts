@@ -377,9 +377,9 @@ export const lingobank: Lingo[] = [
   {
     type: "department",
     nameEN: "Business Technology",
-    nameBM: "Teknologi Korporat",
+    nameBM: "Jabatan Teknologi Korporat",
     acronymEN: "BT",
-    acronymBM: "",
+    acronymBM: "JTK",
     preferredLang: "EN",
   },
   {
